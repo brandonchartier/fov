@@ -1,0 +1,19 @@
+{
+  "name": "fov",
+  "version": "1.0.0",
+  "description": "Permissive field of view algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonchartier/fov.git"
+  },
+  "author": "Brandon Chartier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonchartier/fov/issues"
+  },
+  "homepage": "https://github.com/brandonchartier/fov#readme"
+}
